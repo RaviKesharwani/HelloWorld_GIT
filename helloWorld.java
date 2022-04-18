@@ -1,6 +1,6 @@
 package rough;
 
-//Hello Worl Program
+//Hello World Program
 public class helloWorld {
 
 	public static void main(String[] args) {
